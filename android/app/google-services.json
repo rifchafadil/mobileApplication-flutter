@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88261838390",
+    "project_id": "auth-uas",
+    "storage_bucket": "auth-uas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88261838390:android:3e8d577ef318e23add7a97",
+        "android_client_info": {
+          "package_name": "com.retroportalstudio.flutterstackeditemlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88261838390-l4fktp0m53rvrp05jhulr6j2ukt3n2bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6i9fBdsyMROJUi2HnYSZEgmrHVVnhZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88261838390-l4fktp0m53rvrp05jhulr6j2ukt3n2bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

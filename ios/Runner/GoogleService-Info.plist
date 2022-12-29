@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>88261838390-ef6ot2h7ncb5dvjh95a6kk4ee12hcprl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.88261838390-ef6ot2h7ncb5dvjh95a6kk4ee12hcprl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyChGjJYl7vl7pDmQK-3-EuHcay7bdfN4go</string>
+	<key>GCM_SENDER_ID</key>
+	<string>88261838390</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.retroportalstudio.flutterstackeditemlist</string>
+	<key>PROJECT_ID</key>
+	<string>auth-uas</string>
+	<key>STORAGE_BUCKET</key>
+	<string>auth-uas.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:88261838390:ios:08692e1caa5e14c8dd7a97</string>
+</dict>
+</plist>
